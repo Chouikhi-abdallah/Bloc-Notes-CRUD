@@ -34,7 +34,9 @@ This is an academic project built with Laravel, implementing CRUD (Create, Read,
 6. Run the migrations:
    ```sh
    php artisan migrate
-
+   
+## Preview:
+Live preview video is here : [Click](https://drive.google.com/file/d/14snBzrfzQshme0sgyTEfSfJNp-kTcN0Q/view?usp=sharing)
 
 ## Usage
 Start the local development server:
