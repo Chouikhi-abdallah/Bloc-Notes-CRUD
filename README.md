@@ -37,6 +37,9 @@ This is an academic project built with Laravel, implementing CRUD (Create, Read,
    
 ## Preview:
 Live preview video is here : [Click](https://drive.google.com/file/d/14snBzrfzQshme0sgyTEfSfJNp-kTcN0Q/view?usp=sharing)
+<img width="1440" alt="Screenshot 2024-05-27 at 13 09 01" src="https://github.com/Chouikhi-abdallah/Bloc-Notes-CRUD/assets/136018238/d2682e43-0047-4fe6-93e3-11989feadc6a">
+<img width="1440" alt="Screenshot 2024-05-27 at 13 09 15" src="https://github.com/Chouikhi-abdallah/Bloc-Notes-CRUD/assets/136018238/a347c86a-d8e3-4691-b6a8-bf7b5c79418b">
+
 
 ## Usage
 Start the local development server:
